@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971346085628",
+    "firebase_url": "https://optinmapresta-5daec.firebaseio.com",
+    "project_id": "optinmapresta-5daec",
+    "storage_bucket": "optinmapresta-5daec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971346085628:android:4793584886b11332317979",
+        "android_client_info": {
+          "package_name": "com.optinmapresta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971346085628-ufjot29ja48c3tb2u1fef9d9464smhvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optinmapresta",
+            "certificate_hash": "e52fcf2e05103bd986ec6140c3540f6d14f61fc1"
+          }
+        },
+        {
+          "client_id": "971346085628-fkclptgklhtud7vjb0jej2aspjn2kh75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLd5SH6ym1p3qGjaufGqUu0G4Rm5y-l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971346085628-fkclptgklhtud7vjb0jej2aspjn2kh75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

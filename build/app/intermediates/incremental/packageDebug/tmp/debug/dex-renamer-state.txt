@@ -1,0 +1,7 @@
+#Tue Sep 01 19:32:19 MDT 2020
+base.0=C\:\\AppServ\\www\\Source File V_1.2\\FlyWeb_Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\AppServ\\www\\Source File V_1.2\\FlyWeb_Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
