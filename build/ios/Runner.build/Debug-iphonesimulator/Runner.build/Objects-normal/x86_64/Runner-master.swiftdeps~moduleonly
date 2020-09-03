@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "af77fe8098cf8e4193d54ea717a5642c"
+build_time: [1599152827, 581669000]
+inputs:
+  "/Users/abelcota/optinmaprestaapp/ios/Runner/AppDelegate.swift": [1599110561, 825065069]

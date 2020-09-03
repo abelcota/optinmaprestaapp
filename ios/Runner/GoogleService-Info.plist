@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>400659587054-a0ifoa4buoj0ugo1tcd56fe3h38jv6ao.apps.googleusercontent.com</string>
+	<string>971346085628-vqrellsr2slrpfidgojc3e55vmflun0e.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.400659587054-a0ifoa4buoj0ugo1tcd56fe3h38jv6ao</string>
+	<string>com.googleusercontent.apps.971346085628-vqrellsr2slrpfidgojc3e55vmflun0e</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>400659587054-4h3qtrlujbln4kf1s9g9ej2819ds8lrn.apps.googleusercontent.com</string>
+	<string>971346085628-ufjot29ja48c3tb2u1fef9d9464smhvd.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCskIER1g5pqAkeWprtEgGeMV6KZ-SUaGU</string>
+	<string>AIzaSyCiR_-g_6WT7b6H--ICPggfHlAek5pzRiQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>400659587054</string>
+	<string>971346085628</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.flyweb</string>
+	<string>com.optinmapresta</string>
 	<key>PROJECT_ID</key>
-	<string>flyweb-2020</string>
+	<string>optinmapresta-5daec</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flyweb-2020.appspot.com</string>
+	<string>optinmapresta-5daec.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:400659587054:ios:a38680cbfb6b1971a6f8ff</string>
+	<string>1:971346085628:ios:154d778733993afb317979</string>
 	<key>DATABASE_URL</key>
-	<string>https://flyweb-2020.firebaseio.com</string>
+	<string>https://optinmapresta-5daec.firebaseio.com</string>
 </dict>
 </plist>
