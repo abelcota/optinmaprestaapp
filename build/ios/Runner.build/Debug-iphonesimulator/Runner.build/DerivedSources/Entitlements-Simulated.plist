@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>FAKETEAMID.com.optinmapresta</string>
+	<string>RCW9957X82.com.lrcdigital.optinmapresta</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>FAKETEAMID.com.optinmapresta</string>
+		<string>RCW9957X82.com.lrcdigital.optinmapresta</string>
 	</array>
 </dict>
 </plist>
